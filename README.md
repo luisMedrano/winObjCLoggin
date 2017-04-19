@@ -4,7 +4,7 @@
 
 * The Objective-C implementation (single view app)
 * Access to C++ class to add Windows (VisualStudio objects) to log to file
-* I was trying to follow the [msdn](https://msdn.microsoft.com/en-us/library/2awhba7a.aspx?cs-save-lang=1&cs-lang=cpp#code-snippet-2) sample:
+* C++ implementation following the [msdn](https://msdn.microsoft.com/en-us/library/2awhba7a.aspx?cs-save-lang=1&cs-lang=cpp#code-snippet-2) sample:
 
 ~~~~
 #using <System.dll>
